@@ -24,9 +24,9 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
-![Screenshot_Laptop](/images/Screenshot%202024-01-05%20at%2011-54-48%20Frontend%20Mentor%20Single%20Price%20Grid.png)
+![Screenshot_Laptop](./images/Screenshot%202024-01-05%20at%2011-54-48%20Frontend%20Mentor%20Single%20Price%20Grid.png)
 
-![Screenshot_Phone](/images/Screenshot%202024-01-05%20at%2011-55-52%20Frontend%20Mentor%20Single%20Price%20Grid.png)
+![Screenshot_Phone](./images/Screenshot%202024-01-05%20at%2011-55-52%20Frontend%20Mentor%20Single%20Price%20Grid.png)
 
 ### Links
 
