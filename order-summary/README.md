@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]([https://your-solution-url.com](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/order-summary)
+- Solution URL: [here](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/order-summary)
 - Live Site URL: [here](https://Michellewhat.github.io/order-summary)
 
 ### Built with
