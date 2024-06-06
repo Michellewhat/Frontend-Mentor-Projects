@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]([https://your-solution-url.com](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/stats-preview-card-main))
+- Solution URL: [here]([https://your-solution-url.com](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/stats-preview-card-main)
 - Live Site URL: [here](https://michellewhat.github.io/stats-preview-card-main/)
 
 
