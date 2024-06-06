@@ -93,7 +93,7 @@ button:focus-visible{
 .subscription_box-left{
     display: flex;
     text-align: left;
-    p{
+    div{
         padding: 0 0 0 0.5em;
         display: flex;
         flex-direction: column;
@@ -103,7 +103,7 @@ button:focus-visible{
         font-size: 1rem;
         font-weight: var(--fw-700);
     }
-    span{
+    p{
         color: var(--Desaturated-blue);
         font-weight: var(--fw-500);
     }
