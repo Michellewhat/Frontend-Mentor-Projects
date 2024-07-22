@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/recipe-page-main)
+- [Solution URL](https://github.com/Michellewhat/Frontend-Mentor-Projects/tree/main/recipe-page-main)
 - [Live Site URL](https://michellewhat.github.io/recipe-page-main/)
 
 ### Built with
